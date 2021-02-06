@@ -1,0 +1,78 @@
+body
+{
+    font-family:sans-serif;
+}
+body > h1
+{
+    padding-left: 620px;
+}
+.container {
+    padding-left: 510px;
+}
+#search
+{
+    padding-left:100px;
+    padding-right: 100px;
+    text-align: center;
+    padding-top:10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+}
+#button
+{
+    padding: 12px;
+    padding-right:15px;
+    padding-left:15px;
+    border-radius: 5px;
+    background: #2867d4;
+    color: white;
+    border: none;
+}
+
+ul
+{
+    /* border: 1px solid black; */
+    margin-left: 110px;
+    margin-top: 30px;
+    margin-right:100px;
+    padding-left: -10px;
+    
+}
+/* ul > li
+{
+  margin-top: 20px;
+   border: 1px solid black;
+   text-align: center;
+   padding-top: 30px;
+   padding-right: 150px;
+   list-style-type: none;
+}
+.list > ul li
+{
+    list-style-type: none;
+    padding-top: 10px;
+}  */
+ul li
+{
+    /* border: 1px solid black; */
+    list-style-type: none;
+    text-align: center;
+    padding-right: 150px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: azure;
+}
+ul li button
+{
+    float: right;
+}
+.remove
+{
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+
+
